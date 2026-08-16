@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Mera Assistant</string>
+
+    <string name="accessibility_description">
+        Mera Assistant ko screen content access karne aur
+        supported accessibility actions perform karne ki permission.
+    </string>
+
+</resources>
